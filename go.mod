@@ -1,4 +1,4 @@
-module github.com/CoffeHouse/protos
+module github.com/OxiD1Zed/CoffeHouseProtos
 
 go 1.22.2
 
